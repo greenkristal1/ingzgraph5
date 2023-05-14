@@ -1,0 +1,4 @@
+D:\угату\2_курс\графика\ayrat_graph5\Project\x64\Debug\Project.vcxproj.CopyComplete
+D:\угату\2_курс\графика\ayrat_graph5\Project\x64\Debug\freeglutd.dll
+D:\угату\2_курс\графика\ayrat_graph5\Project\x64\Debug\Project.exe
+D:\угату\2_курс\графика\graph5\Project\x64\Debug\Project.exe
